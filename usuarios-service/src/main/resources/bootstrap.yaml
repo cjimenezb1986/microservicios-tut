@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: usuarios.service
+  cloud:
+    config:
+      enable: true
+      uri: http://localhost:8091
